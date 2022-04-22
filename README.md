@@ -9,9 +9,9 @@
 ## Communitites I am active with 
 - [`Google Developers`](https://developers.google.com/profile/u/kumarkalyan) 
 - [`Postman Student Experts`](https://badgr.com/public/assertions/e6MU7mwvQV65r-n5DbDzgg?identity__email=kum9748ar%40gmail.com) 
-- Hackclub Leads 
+- [`Hackclub Leads`](https://apacdirectory.hackclub.com/club/hchackbeats) 
 - Hashnode Ambassadors 
-- Twilio Quest Field Operators
+- [`Twilio Quest Field Operators`](https://www.twilio.com/quest/app/c/3/13930)
 - [`Ethereum Foundation Contributor`](https://www.gitpoap.io/p/0xCAB33aFcEDfF044391f200642e405F28086881B7)
 
 
