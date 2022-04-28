@@ -8,7 +8,8 @@
 
 ## Communitites I am active with 
 - [`Google Developers`](https://developers.google.com/profile/u/kumarkalyan) 
-- [`Postman Student Experts`](https://badgr.com/public/assertions/e6MU7mwvQV65r-n5DbDzgg?identity__email=kum9748ar%40gmail.com) 
+- [`Postman Student Expert`](https://badgr.com/public/assertions/e6MU7mwvQV65r-n5DbDzgg?identity__email=kum9748ar%40gmail.com) 
+- [`Postman Student Lead`](https://api.badgr.io/public/assertions/HL02eZKgQcKo4F33VFwYZw?identity__email=kum9748ar%40gmail.com) 
 - [`Hackclub Leads`](https://apacdirectory.hackclub.com/club/hchackbeats) 
 - Hashnode Ambassadors 
 - [`Twilio Quest Field Operators`](https://www.twilio.com/quest/app/c/3/13930)
