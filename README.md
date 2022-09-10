@@ -29,9 +29,4 @@
 [![Twitter Badge](https://img.shields.io/badge/-kumarkalyan_-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kumarkalyan_/)](https://twitter.com/kumarkalyan_/)
 [![Gmail Badge](https://img.shields.io/badge/kum9748ar@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:kum9748ar@gmail.com)](mailto:kum9748ar@gmail.com)
 
-<p align="center">
-<a href="https://github.com/kum9748ar">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kum9748ar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kum9748ar&theme=radical"/>
-</a>
-</p>
+
