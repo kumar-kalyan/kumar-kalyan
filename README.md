@@ -38,4 +38,5 @@
 
 ## My bagdes 
 <img width="200px" height="200px" alt="GDSC Lead Logo " src="https://developers.google.com/profile/badges/community/dsc/2022/lead/badge.svg">
-<img src="https://api.badgr.io/public/assertions/HL02eZKgQcKo4F33VFwYZw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=kum9748ar%40gmail.com" title="Badge: Postman Student Leader" style="width: 330px; height: 191px; border: 0px;">
+<img width="200px" height="200px" src="https://api.badgr.io/public/assertions/HL02eZKgQcKo4F33VFwYZw/image">
+
