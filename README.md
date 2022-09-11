@@ -8,10 +8,8 @@
 
 ## Communitites I am active with 
 - [`Google Developers`](https://developers.google.com/profile/u/kumarkalyan) 
-- [`Postman Student Expert`](https://badgr.com/public/assertions/e6MU7mwvQV65r-n5DbDzgg?identity__email=kum9748ar%40gmail.com) 
 - [`Postman Student Lead`](https://api.badgr.io/public/assertions/HL02eZKgQcKo4F33VFwYZw?identity__email=kum9748ar%40gmail.com) 
 - [`Hackclub Leads`](https://apacdirectory.hackclub.com/club/hchackbeats) 
-- Hashnode Ambassadors 
 - [`Twilio Quest Field Operators`](https://www.twilio.com/quest/app/c/3/13930)
 - [`Ethereum Foundation Contributor`](https://www.gitpoap.io/p/0xCAB33aFcEDfF044391f200642e405F28086881B7)
 
@@ -29,4 +27,15 @@
 [![Twitter Badge](https://img.shields.io/badge/-kumarkalyan_-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kumarkalyan_/)](https://twitter.com/kumarkalyan_/)
 [![Gmail Badge](https://img.shields.io/badge/kum9748ar@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:kum9748ar@gmail.com)](mailto:kum9748ar@gmail.com)
 
+## My recent Podcasts
+[First Programming Language](https://twitter.com/i/spaces/1BdGYylXMVAGX?s=20)
+[Web3 is an opportunity or not](https://twitter.com/i/spaces/1YpKkZBqejBxj?s=20)
+[Intro to devs](https://twitter.com/i/spaces/1YpKkZBqejBxj?s=20)
 
+## My recent blog
+![Image ](https://res.cloudinary.com/practicaldev/image/fetch/s--aB7ogkP9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3im56fqy25g9zdgiszyh.png)
+[How configure git in Windows](https://dev.to/kumarkalyan/how-configure-git-in-windows-1ec6)
+
+## My bagdes 
+<img width="200px" height="200px" alt="GDSC Lead Logo " src="https://developers.google.com/profile/badges/community/dsc/2022/lead/badge.svg">
+<img src="https://api.badgr.io/public/assertions/HL02eZKgQcKo4F33VFwYZw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=kum9748ar%40gmail.com" title="Badge: Postman Student Leader" style="width: 330px; height: 191px; border: 0px;">
