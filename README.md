@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on full stack web dev
-- 👯 I’m looking to collaborate on open source JavaScript projects 
+- 👯 Currently hacking at MLH Global Hack Week  
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I am not coding, I'm definately listning to music or hanging out with my friends
+
 
 
 ## Communitites I am active with 
