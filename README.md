@@ -40,10 +40,11 @@
 
 
 [![Git](https://user-images.githubusercontent.com/67071462/190099159-7e4d50bf-c00f-4288-aadb-852c89b4c171.png)](https://dev.to/kumarkalyan/how-configure-git-in-windows-1ec6)
+
+### How to configure git in windows ⬆️
 [![JavaScript](https://miro.medium.com/max/875/1*vN0bczk5irR0WYL7RuADUA.png)](https://medium.com/@kumarkalyan/top-6-opensource-repositories-to-learn-javascript-in-2022-f58c5e17109)
 
-
- ### How to configure git in windows ⬆️
+ ### learn JavaScript in 2022 ⬆️
 
 ## My bagdes 
 <img width="200px" height="200px" alt="GDSC Lead Logo " src="https://developers.google.com/profile/badges/community/dsc/2022/lead/badge.svg">
