@@ -28,16 +28,21 @@
 [![Twitter Badge](https://img.shields.io/badge/-kumarkalyan_-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kumarkalyan_/)](https://twitter.com/kumarkalyan_/)
 [![Gmail Badge](https://img.shields.io/badge/kum9748ar@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:kum9748ar@gmail.com)](mailto:kum9748ar@gmail.com)
 
-## My recent Podcasts
+## My recent Podcasts 
 [First Programming Language](https://twitter.com/i/spaces/1BdGYylXMVAGX?s=20)
 [Web3 is an opportunity or not](https://twitter.com/i/spaces/1YpKkZBqejBxj?s=20)
 [Intro to devs](https://twitter.com/i/spaces/1YpKkZBqejBxj?s=20)
 
-## My recent blog
-![Community](https://miro.medium.com/max/580/1*cOU4bzO8WwoCt2GK4GIYmA.png)
-[Peks of getting into communities ](https://medium.com/@kumarkalyan/perks-of-getting-into-communities-a7a3b5c44a31)
-![Image ](https://res.cloudinary.com/practicaldev/image/fetch/s--aB7ogkP9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3im56fqy25g9zdgiszyh.png)
-[How configure git in Windows](https://dev.to/kumarkalyan/how-configure-git-in-windows-1ec6)
+## My recent blog (click on the banners below ⬇️)
+
+[![Community](https://miro.medium.com/max/580/1*cOU4bzO8WwoCt2GK4GIYmA.png)](https://medium.com/@kumarkalyan/perks-of-getting-into-communities-a7a3b5c44a31)
+ ### Perks of getting into communities ⬆️
+
+
+[![Git](https://user-images.githubusercontent.com/67071462/190099159-7e4d50bf-c00f-4288-aadb-852c89b4c171.png)](https://dev.to/kumarkalyan/how-configure-git-in-windows-1ec6)
+
+
+ ### How to configure git in windows ⬆️
 
 ## My bagdes 
 <img width="200px" height="200px" alt="GDSC Lead Logo " src="https://developers.google.com/profile/badges/community/dsc/2022/lead/badge.svg">
