@@ -34,6 +34,8 @@
 [Intro to devs](https://twitter.com/i/spaces/1YpKkZBqejBxj?s=20)
 
 ## My recent blog
+![Community](https://miro.medium.com/max/580/1*cOU4bzO8WwoCt2GK4GIYmA.png)
+[Peks of getting into communities ](https://medium.com/@kumarkalyan/perks-of-getting-into-communities-a7a3b5c44a31)
 ![Image ](https://res.cloudinary.com/practicaldev/image/fetch/s--aB7ogkP9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3im56fqy25g9zdgiszyh.png)
 [How configure git in Windows](https://dev.to/kumarkalyan/how-configure-git-in-windows-1ec6)
 
