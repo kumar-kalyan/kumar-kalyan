@@ -35,6 +35,8 @@
 
 ## My recent blog (click on the banners below ⬇️)
 
+[![hacktober fest](https://user-images.githubusercontent.com/67071462/194708458-df541620-89d4-4a6f-835a-59cee92d05e2.png)](https://kumarkalyan.medium.com/everything-you-need-to-know-about-hacktoberfest-and-opensource-in-just-5-mins-de8e54c3df24)
+
 [![Community](https://miro.medium.com/max/580/1*cOU4bzO8WwoCt2GK4GIYmA.png)](https://medium.com/@kumarkalyan/perks-of-getting-into-communities-a7a3b5c44a31)
  ### Perks of getting into communities ⬆️
 
