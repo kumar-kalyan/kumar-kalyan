@@ -5,16 +5,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I am not coding, I'm definately listning to music or hanging out with my friends
 
-
-
-## Communitites I am active with 
-- [`Google Developers`](https://developers.google.com/profile/u/kumarkalyan) 
-- [`Postman Student Lead`](https://api.badgr.io/public/assertions/HL02eZKgQcKo4F33VFwYZw?identity__email=kum9748ar%40gmail.com) 
-- [`Hackclub Leads`](https://apacdirectory.hackclub.com/club/hchackbeats) 
-- [`Twilio Quest Field Operators`](https://www.twilio.com/quest/app/c/3/13930)
-- [`Ethereum Foundation Contributor`](https://www.gitpoap.io/p/0xCAB33aFcEDfF044391f200642e405F28086881B7)
-
-
 ## Checkout my works 
 <p display="flex">
   
