@@ -1,42 +1,38 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kumar Kalyan</h1>
+<h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on full stack web dev
-- 👯 Currently hacking at MLH Global Hack Week  
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: When I am not coding, I'm definately listning to music or hanging out with my friends
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-kalyan&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-kalyan" /> </p>
 
-## Checkout my works 
-<p display="flex">
-  
-<!-- [![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@kumarkalyan)  -->
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kumarkalyan.medium.com/) [![Dev to ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/kumarkalyan) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kumarkalyan)  
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-kalyan" alt="kumar-kalyan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kumarkalyan_" target="blank"><img src="https://img.shields.io/twitter/follow/kumarkalyan_?logo=twitter&style=for-the-badge" alt="kumarkalyan_" /></a> </p>
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 📝 I regularly write articles on [https://dev.to/kumarkalyan](https://dev.to/kumarkalyan)
+
+- 📫 How to reach me **kumarkalyandev@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/kumarkalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kumarkalyan" height="30" width="40" /></a>
+<a href="https://twitter.com/kumarkalyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumarkalyan_" height="30" width="40" /></a>
+<a href="https://instagram.com/kumar_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_eth" height="30" width="40" /></a>
+<a href="https://medium.com/@kumarkalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kumarkalyan" height="30" width="40" /></a>
 </p>
 
-## Find me here 
-[![Linkedin Badge](https://img.shields.io/badge/-Kumar_Kalyan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar009/)](https://www.linkedin.com/in/kumar009/)
-[![Twitter Badge](https://img.shields.io/badge/-kumarkalyan_-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kumarkalyan_/)](https://twitter.com/kumarkalyan_/)
-[![Gmail Badge](https://img.shields.io/badge/kum9748ar@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:kum9748ar@gmail.com)](mailto:kum9748ar@gmail.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-## My recent Podcasts 
-[First Programming Language](https://twitter.com/i/spaces/1BdGYylXMVAGX?s=20)
-[Web3 is an opportunity or not](https://twitter.com/i/spaces/1YpKkZBqejBxj?s=20)
-[Intro to devs](https://twitter.com/i/spaces/1YpKkZBqejBxj?s=20)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kumarkalyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarkalyan" /></a></p><br><br>
 
-## My recent blog (click on the banners below ⬇️)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-kalyan&show_icons=true&locale=en&layout=compact" alt="kumar-kalyan" /></p>
 
-[![hacktober fest](https://user-images.githubusercontent.com/67071462/194708458-df541620-89d4-4a6f-835a-59cee92d05e2.png)](https://kumarkalyan.medium.com/everything-you-need-to-know-about-hacktoberfest-and-opensource-in-just-5-mins-de8e54c3df24)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar-kalyan&show_icons=true&locale=en" alt="kumar-kalyan" /></p>
 
-[![Community](https://miro.medium.com/max/580/1*cOU4bzO8WwoCt2GK4GIYmA.png)](https://medium.com/@kumarkalyan/perks-of-getting-into-communities-a7a3b5c44a31)
- ### Perks of getting into communities ⬆️
-
-
- ### learn JavaScript in 2022 ⬆️
-
-## My bagdes 
-<img width="200px" height="200px" alt="GDSC Lead Logo " src="https://developers.google.com/profile/badges/community/dsc/2022/lead/badge.svg">
-<img width="200px" height="200px" src="https://api.badgr.io/public/assertions/HL02eZKgQcKo4F33VFwYZw/image">
-
-
-
-[![@kumarkalyan's Holopin board](https://holopin.io/api/user/board?user=kumarkalyan)](https://holopin.io/@kumarkalyan)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-kalyan&" alt="kumar-kalyan" /></p>
